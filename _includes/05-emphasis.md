@@ -1,1 +1,1 @@
-I'm interestedin learning rust programming language
+I'm interested in learning **rust** programming language
